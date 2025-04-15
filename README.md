@@ -14,3 +14,8 @@ Notebook containing the code used to generate figures, calculate evaluation metr
 ### **Generating-GRS.ipynb**
 
 Notebook containing main code to generate recommendations with LLMs based on social choice-based aggregation strategies
+
+
+### few-shot-examples.csv
+
+csv file containing the three groups used as examples in in-context learning prompt condition
