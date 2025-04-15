@@ -11,6 +11,6 @@ Generated in the notebook 'Generating_GRS' and used in the notebook 'Visualizati
 
 Notebook containing the code used to generate figures, calculate evaluation metrics and generate metrics seen in tables of the paper.
 
-### **Generating-GRS.ipynb **
+### **Generating-GRS.ipynb**
 
 Notebook containing main code to generate recommendations with LLMs based on social choice-based aggregation strategies
